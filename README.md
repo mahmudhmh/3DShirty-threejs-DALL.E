@@ -7,6 +7,9 @@
 
 This project aims to build a visually engaging website that showcases 3D graphics of t-shirt models using the power of ThreeJS and React. The website utilizes React Three Fiber, a popular library for creating 3D graphics with ThreeJS in React, to render and animate the 3D models. The overall styling of the website is achieved using TailwindCSS, a utility-first CSS framework, to ensure a modern and responsive design. To bring the website to life with stunning animations, the Framer Motion library is utilized.
 
+![localhost_5173_(PC) (1)](https://github.com/mahmudhmh/3DShirty-threejs-DALL.E/assets/54104161/3a401184-1b4e-4b8b-acff-505f243f3af8)
+
+
 ## Features
 
 - Load, create, and customize captivating 3D models and geometries with the use of various lights, providing an immersive user experience.
